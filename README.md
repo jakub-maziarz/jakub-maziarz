@@ -6,3 +6,6 @@ Computer science graduate focused on growth and gaining new experiences. Interes
 ## 🔧 Skills 
 * HTML, CSS, JS
 * Python, Django
+
+## Examples of Work
+[<img src="https://user-images.githubusercontent.com/118571317/204499044-c634ba6a-6aec-444e-9627-7dc908af9ae0.png" width="426">](https://github.com/jakub-maziarz/atelier-konrada)
